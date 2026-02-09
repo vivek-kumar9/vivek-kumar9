@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Vivek Kumar
+# Hi, I'm Vivek Kumar
 
 **Machine Learning & Data Engineer | IIT Delhi**  
 Turning data into insights, models into impact 🚀
@@ -11,7 +11,7 @@ Turning data into insights, models into impact 🚀
 ## 🚀 About Me
 
 - 🔭 **Currently working on:**  
-  End-to-end **Machine Learning & Data Analytics projects** including Customer Segmentation, Tumor Diagnosis, Forecasting, NLP & Computer Vision
+  End-to-end **Machine Learning & Data Analytics projects** including Tumor Diagnosis, Forecasting, NLP & Computer Vision
 
 - 🌱 **Currently learning:**  
   Advanced **Machine Learning**, Deep Learning (LSTM, CNN), Data Structures & Algorithms, and Model Deployment
@@ -34,18 +34,14 @@ Turning data into insights, models into impact 🚀
 - 📫 **How to reach me:**  
   **kumarvivek.iitdelhi@gmail.com**
 
-- 😄 **Pronouns:** He / Him
-
-- ⚡ **Fun fact:**  
-  I love solving problems with data — and data loves structured thinking 😉
-
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 - Python  
-- SQL  
+- SQL
+- C++
 
 ### 📊 Data & ML
 - Pandas, NumPy  
