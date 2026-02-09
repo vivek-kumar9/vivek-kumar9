@@ -1,16 +1,82 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Vivek Kumar
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+**Machine Learning & Data Engineer | IIT Delhi**  
+Turning data into insights, models into impact 🚀
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+📩 **Email:** ✉️ kumarvivek.iitdelhi@gmail.com  
+💡 Open to **internships, collaborations, and impactful ML projects**
+
+---
+
+## 🚀 About Me
+
+- 🔭 **Currently working on:**  
+  End-to-end **Machine Learning & Data Analytics projects** including Customer Segmentation, Tumor Diagnosis, Forecasting, NLP & Computer Vision
+
+- 🌱 **Currently learning:**  
+  Advanced **Machine Learning**, Deep Learning (LSTM, CNN), Data Structures & Algorithms, and Model Deployment
+
+- 👯 **Looking to collaborate on:**  
+  ML / AI / Data Analytics projects, research-driven ideas, and real-world problem solving
+
+- 🤔 **Looking for help with:**  
+  Model optimization, deployment pipelines, and scalable ML systems
+
+- 💬 **Ask me about:**  
+  Machine Learning, Data Analytics, Python, SQL, Interview Preparation, and Project Building
+
+- 🎓 **Background:**  
+  B.Tech student at **IIT Delhi**, actively involved in technical clubs, consulting work, and AI-driven product development
+
+- 🧠 **Experience:**  
+  Built multiple **industry-level ML projects**, worked on data-driven solutions, and prepared for Product Analyst & ML roles
+
+- 📫 **How to reach me:**  
+  **kumarvivek.iitdelhi@gmail.com**
+
+- 😄 **Pronouns:** He / Him
+
+- ⚡ **Fun fact:**  
+  I love solving problems with data — and data loves structured thinking 😉
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+- Python  
+- SQL  
+
+### 📊 Data & ML
+- Pandas, NumPy  
+- Scikit-learn  
+- TensorFlow, Keras  
+- EDA, Feature Engineering  
+- A/B Testing, Forecasting  
+
+### 🧠 Concepts
+- Statistics & Probability  
+- Machine Learning  
+- Deep Learning  
+- NLP & Computer Vision  
+
+### 🛠️ Tools
+- Git & GitHub  
+- Jupyter Notebook  
+- VS Code  
+
+---
+
+## 📌 What I'm Looking For
+
+- 🚀 Machine Learning / Data Analytics internships  
+- 🤝 Collaborative open-source projects  
+- 🧠 Challenging real-world ML problems  
+
+---
+
+⭐ *If you find my work interesting, feel free to star my repositories and connect with me!*  
+
 
 
 # 💻 Tech Stack:
